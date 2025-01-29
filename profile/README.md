@@ -72,10 +72,6 @@ Visit our [Developer Documentation](https://docs.hsuite.finance) to:
 - [Twitter Updates](https://twitter.com/hbarsuite)
 - [Official Website](https://hsuite.finance)
 
-## 📜 License
-
-This project is proprietary software owned by HbarSuite.
-
 ---
 
 <p align="center">
