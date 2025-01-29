@@ -67,10 +67,10 @@ Visit our [Developer Documentation](https://docs.hbarsuite.network/smart-node) t
 
 ## 🤝 Community & Support
 
-- [Discord Community](https://discord.gg/hbarsuite)
-- [Documentation](https://docs.hbarsuite.network/smart-node)
+- [Discord Community]([https://discord.gg/hbarsuite](https://discord.gg/BtRCRYvJmB))
+- [Documentation](https://docs.hsuite.finance)
 - [Twitter Updates](https://twitter.com/hbarsuite)
-- [Official Website](https://hbarsuite.network)
+- [Official Website](https://hsuite.finance)
 
 ## 📜 License
 
