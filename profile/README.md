@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.hbarsuite.network/smart-node" target="_blank"><img src="https://img.shields.io/badge/docs-reference-blue.svg" alt="Docs" /></a>
-  <a href="https://discord.gg/hbarsuite" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-  <a href="https://hbarsuite.network" target="_blank"><img src="https://img.shields.io/badge/website-hbarsuite-blue.svg" alt="Website" /></a>
+  <a href="https://docs.hsuite.finance" target="_blank"><img src="https://img.shields.io/badge/docs-reference-blue.svg" alt="Docs" /></a>
+  <a href="https://discord.gg/BtRCRYvJmB" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
+  <a href="https://hsuite.finance" target="_blank"><img src="https://img.shields.io/badge/website-hbarsuite-blue.svg" alt="Website" /></a>
   <a href="https://twitter.com/hbarsuite" target="_blank"><img src="https://img.shields.io/twitter/follow/hbarsuite?style=social" alt="Twitter"/></a>
 </p>
 
